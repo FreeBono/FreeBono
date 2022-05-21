@@ -8,7 +8,7 @@
 
 <br></br>
 
-#### I used these techs for my projects:
+## I used these techs for my projects:
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
@@ -23,7 +23,7 @@
 
 <br></br>
 
-#### My Stats:
+## My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeBono&show_icons=true)    &nbsp;&nbsp;&nbsp;&nbsp;       [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgus619)](https://solved.ac/ehdgus619)
 
