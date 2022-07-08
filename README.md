@@ -4,7 +4,7 @@
  Hi, I'm Donghyeon. I dream of being a front-end developer
  + 📖 I'm currently learning Typescript & Node
  + 📜 I did four team projects and I am planning a personal project.
- + 📪 You can contact me at <ehdgus6191@gmail.com>
+ + 📪 You can contact me at <ehdgus6191@gmail.com> <https://velog.io/@freebono>
 
 <br></br>
 
