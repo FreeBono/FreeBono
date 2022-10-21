@@ -2,7 +2,7 @@
 ## Hi there, I'm Donghyeon!!🖐
 
  Hi, I'm Donghyeon. I work in CAD development, Samsung Heavy Industries
- + 📖 I'm currently learning Typescript & Node
+ + 📖 I'm currently learning c#
  + 📜 I did four team projects and I am planning a personal project.
  + 📪 You can contact me at Email : <ehdgus6191@gmail.com> Blog : <https://velog.io/@freebono>
 
