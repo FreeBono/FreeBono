@@ -3,7 +3,7 @@
 
  Hi, I'm Donghyeon. I work in CAD development, Samsung Heavy Industries
  + 📖 I'm currently learning c# and flutter
- + 📜 I did four team projects and I am planning a personal project.
+ + 📜 I did four team projects and I am planning a flutter project
  + 📪 You can contact me at Email : <ehdgus6191@gmail.com> Blog : <https://velog.io/@freebono>
 
 <br></br>
