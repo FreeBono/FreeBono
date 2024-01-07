@@ -4,9 +4,9 @@
  Hi, I'm Donghyeon. I work in CAD development, Samsung Heavy Industries
  + 📖 I'm currently learning c# and flutter
  + 📜 I did four team projects and I am planning a flutter project
- + 📪 You can contact me at Email : <ehdgus6191@gmail.com>
-       Blog : <https://maybe-developer.tistory.com/>
-       LinkedIn : <https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B3%BD-5a84a9202/>
+ + 📪 You can contact me at Email : <ehdgus6191@gmail.com> <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog : <https://maybe-developer.tistory.com/>  <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : <https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B3%BD-5a84a9202/>
    
 
 <br></br>
