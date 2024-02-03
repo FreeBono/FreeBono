@@ -5,7 +5,7 @@
  + 📖 I am working on a project using Flutter(Windows, Android) and .NET CORE.
  + 📪 You can contact me at Email : <ehdgus6191@gmail.com> <br/>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog : <https://maybe-developer.tistory.com/>  <br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : <https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B3%BD-5a84a9202/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn : [<https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EA%B3%BD-5a84a9202/>](https://www.linkedin.com/in/donghyeon-gwak-5a84a9202/)
    
 
 <!---
